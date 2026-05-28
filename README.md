@@ -1,0 +1,1 @@
+# aws-serverless-sns-login-alerts
